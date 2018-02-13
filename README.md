@@ -60,7 +60,7 @@ Follow this section to get this project working. Before you begin, ensure you ha
 ### Step 1: Getting the project
 
 ```sh
-$ hasura quickstart hello-flask-react
+$ hasura quickstart ravi/hello-flask-react
 $ cd hello-flask-react
 ```
 
